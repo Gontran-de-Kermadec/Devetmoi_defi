@@ -9,7 +9,7 @@ header {
     display: flex;
     justify-content: space-between;
 }
-ul {
+.flex {
     display: flex;
     align-items: center;
 }
@@ -38,4 +38,7 @@ section {
     display: flex;
     justify-content: center;
     width: 600px;
+}
+footer {
+    text-align: center;
 }
