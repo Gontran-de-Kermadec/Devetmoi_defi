@@ -17,3 +17,25 @@ li {
     list-style: none;
     margin-left: 20px;
 }
+.background {
+    background: url(images/backgroung_image.jpg);
+    background-size: cover;
+    height: 500px;
+    color: white;
+    text-align: center;
+}
+.background img {
+    width: 200px;
+    margin-top: 200px;
+}
+div h1 {
+    margin-top: 20px;
+}
+section {
+    text-align: center;
+}
+.flexbox {
+    display: flex;
+    justify-content: center;
+    width: 600px;
+}
